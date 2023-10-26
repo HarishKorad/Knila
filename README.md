@@ -17,4 +17,5 @@ This project includes automated test cases for OpenMRS, covering login, patient 
 For detailed test case descriptions and setup instructions, refer to the individual test scripts.
 
 ## Author
-Harish K
+
+Harish k
